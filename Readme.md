@@ -1,4 +1,4 @@
-# Golang Clean Web API (Dockerize) with a full sample project (Car Sale project)
+# Golang API (Dockerize) with Car Sale project
 
 ## System Design Diagram
 
